@@ -1,0 +1,6 @@
+; $Id: vote_actions.info,v 1.1 2007/06/29 00:59:16 frjo Exp $
+name = Vote actions
+description = Triggers actions based on VotingAPI events.
+dependencies[] = votingapi
+package = Voting
+core = 6.x
